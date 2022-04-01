@@ -1,2 +1,3 @@
-# discord-automation
-Automating Discord Messages
+# DISCORD AUTOMATION
+- Automating Discord Messages
+
